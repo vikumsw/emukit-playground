@@ -161,7 +161,7 @@
                 "description": "The orange line denotes the derivative of the mean at the given input point. The gradient of this line tells us how sensitive this input is at the given point."
             },
             "slide9": {
-                "description": "We can see that when there are 5 taxis, if we were to add a 6th taxi we could expect a profit increase of around $1.5k."
+                "description": "We can see that when the cost per km is at 5$, if we were to increase it to 6$, we could expect a profit increase of around $1.5k."
             },
             "slide10": {
                 "description": "When we observe the cost per kilometer vs the mean pick-up time, we see that the gradient of the sensitivity is almost flat. This means that adding or removing taxis at this point will have little to no effect."
@@ -182,7 +182,7 @@
                 "description": "We can see that the relationship observed once the cost per kilometer goes above $10 changes. At this point, passengers start to decide against taking the taxis if their journey will cost too much."
             },
             "slide16": {
-                "description": "When there are 13 taxis, the profit starts to level out. At this point if we were to increase or decrease the cost per km, we would observe a lower overall profit."
+                "description": "When the cost per km is at 13$, the profit starts to level out. At this point if we were to increase or decrease the cost per km, we would observe a lower overall profit."
             },
             "slide17": {
                 "description": "However when we consider mean pick-up time, we observe that increasing the cost per km will reduce the mean pick-up time by around 25 minutes per $1 increase."
